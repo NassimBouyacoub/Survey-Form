@@ -1,9 +1,7 @@
 body{
   text-align:center;
   background-image:url("https://unsplash.com/photos/SYTO3xs06fU/download?force=true");
-  background-size: contain;
   background-size: 100% 100%;
-
 }
 form{
   text-align:left;
